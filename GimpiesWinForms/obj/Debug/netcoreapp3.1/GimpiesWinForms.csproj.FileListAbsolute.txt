@@ -1,0 +1,17 @@
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\GimpiesWinForms.exe
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\GimpiesWinForms.deps.json
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\GimpiesWinForms.runtimeconfig.json
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\GimpiesWinForms.runtimeconfig.dev.json
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\GimpiesWinForms.dll
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\GimpiesWinForms.pdb
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.csprojAssemblyReference.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.AssemblyInfoInputs.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.AssemblyInfo.cs
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.dll
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.pdb
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.genruntimeconfig.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp3.1\System.Web.Mobile.dll
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.Form1.resources
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.csproj.GenerateResource.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.csproj.CopyComplete

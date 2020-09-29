@@ -1,0 +1,13 @@
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\bin\Debug\netcoreapp3.1\GimpiesConsole.exe
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\bin\Debug\netcoreapp3.1\GimpiesConsole.deps.json
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\bin\Debug\netcoreapp3.1\GimpiesConsole.runtimeconfig.json
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\bin\Debug\netcoreapp3.1\GimpiesConsole.runtimeconfig.dev.json
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\bin\Debug\netcoreapp3.1\GimpiesConsole.dll
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\bin\Debug\netcoreapp3.1\GimpiesConsole.pdb
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.csprojAssemblyReference.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.AssemblyInfoInputs.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.AssemblyInfo.cs
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.dll
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.pdb
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesConsole\obj\Debug\netcoreapp3.1\GimpiesConsole.genruntimeconfig.cache

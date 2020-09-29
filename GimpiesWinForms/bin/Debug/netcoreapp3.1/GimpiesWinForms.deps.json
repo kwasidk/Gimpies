@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GimpiesWinForms/1.0.0": {
+        "dependencies": {
+          "System.Web.Mobile": "4.0.0.0"
+        },
+        "runtime": {
+          "GimpiesWinForms.dll": {}
+        }
+      },
+      "System.Web.Mobile/4.0.0.0": {
+        "runtime": {
+          "System.Web.Mobile.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.4084.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GimpiesWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Web.Mobile/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
