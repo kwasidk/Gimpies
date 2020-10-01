@@ -15,3 +15,5 @@ C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\bin\Debug\netcoreapp
 C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.Form1.resources
 C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.csproj.GenerateResource.cache
 C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.csproj.CopyComplete
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.ManagerMainMenu.resources
+C:\Users\Kwasi Kattah\RiderProjects\Gimpies\GimpiesWinForms\obj\Debug\netcoreapp3.1\GimpiesWinForms.VerkoperMainMenu.resources
